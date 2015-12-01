@@ -16,7 +16,10 @@
  * @since FoundationPress 1.0.0
  */
 
-get_header(); ?>
+get_header();
+var_dump('ok');
+
+ ?>
 
 <div class="row">
 <!-- Row for main content area -->
